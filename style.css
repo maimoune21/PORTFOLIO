@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(images/foot.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 20;
+}
+#div{
+     text-align: center;
+}
+#simo{
+         text-align: center;
+}
+#moha{
+         text-align: center;
+}
+#opp{
+        text-align: center;
+}
+#col{
+        color: blueviolet;
+}
